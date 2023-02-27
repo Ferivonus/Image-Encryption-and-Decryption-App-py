@@ -43,7 +43,7 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 This project was inspired by a similar project on GitHub, which uses the RSA encryption algorithm instead of AES. I would like to thank the author of that project for the inspiration.
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact me at my email address: [insert your email address here].
+If you have any questions or suggestions, please feel free to contact me at my email address: fahrettin_basturk@hotmail.com.
 
 ## Thanks
 Thank you for using this app! We hope it has been useful to you.
