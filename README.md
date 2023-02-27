@@ -11,7 +11,7 @@ To use this app, you need to have the following packages installed:
 
 You can install these packages by running the following command:
 
-`pip install Pillow cryptography`
+```pip install Pillow cryptography```
 
 
 ## Usage
@@ -26,8 +26,22 @@ You will be prompted to choose between encryption and decryption. If you choose 
 If you choose decryption, you will be asked for the name of the binary file containing the encrypted data, as well as the name of the text file containing the encryption key. The decrypted image will be saved as a PNG file with the name you choose.
 
 
-### manual usage
+## manual usage
 Note: Both `encripting.py` and `decripting.py` files can also be run separately if you prefer to encrypt/decrypt images without using the `main.py` file.
+
+### Encryption:
+1. Run the `encripting.py` file.
+2. Enter the name of the PNG file you want to encrypt.
+3. Choose a name for the encrypted data file.
+4. Choose a name for the file to save the encryption key.
+5. Choose a name for the file to save all the file names together.
+
+### Decryption:
+
+1. Run the `decripting.py` file.
+2. Enter the name of the .bin file containing the encrypted data.
+3. Enter the name of the .txt file containing the encryption key.
+4. Enter a name for the new PNG file.
 
 ## Disclaimer
 
