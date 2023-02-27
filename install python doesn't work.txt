@@ -1,0 +1,4 @@
+Type in your powershell:
+Set-ExecutionPolicy Bypass -Scope Process
+
+and execute other file as powershell.

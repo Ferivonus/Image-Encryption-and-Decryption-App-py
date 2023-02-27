@@ -1,0 +1,15 @@
+1. open your PowerShell as administrator.
+  	1.1 search PowerShell
+	1.2 right click and open as administrator
+
+
+2. write there: 
+
+	Set-ExecutionPolicy Unrestricted -Force
+ 
+
+3. try to find path(yol) of your "install_python.ps1" file and write that here.
+	it will be like: "‪C:\Users\cccc\PycharmProjects\encripting_png\install_python.ps1"
+
+
+4. and click enter to execute.
