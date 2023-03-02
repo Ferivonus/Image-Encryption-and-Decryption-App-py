@@ -1,0 +1,4 @@
+Use decripting.py with that informations: 
+Your PNG file's name was: ornek.png
+your encrypted data file: saklý.bin
+key txt file: saklanmýþ.txt
